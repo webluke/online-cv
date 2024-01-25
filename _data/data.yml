@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Luke Schaefer
-    tagline: Full Stack Developer
+    tagline: Full Stack Developer and IT Administrator 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: luke@schaefer.email
     phone: #012 345 6789
-    website: webluke.net #do not add http://
+    website: #webluke.net #do not add http://
     linkedin: lukeschaefer
     xing: #alandoe
     github: webluke
@@ -33,13 +33,19 @@ sidebar:
         level: Native
 
     interests:
-      - item: Computers
+      - item: Software Development
+        link:
+    
+      - item: Custom Computers
         link:
 
-      - item: Electronics
+      - item: Electronics and IOT
         link:
 
-      - item: Cooking
+      - item: 3D Printing
+        link:
+
+      - item: BBQ and Cooking
         link:
         
       - item: Gaming
@@ -65,15 +71,19 @@ education:
         Studied Information Systems Administration. Includes network administration, server administration and project management,
           - Graduated with Highest Honors
 experiences:
-    - role: Simulation Software Engineer
+    - role: Simulation Software Engineer + IT Specialist 
       time: 2021 - Present
       company: SimGenics, Grand Junction
       details: |
         Develop and Maintain Simulator HMI and Communications. 
-          - Simulator HMI
-          - Simulator UX
-          - Simulator Networking
+          - C# / SQL / WPF / VP.net / WinForms
+          - Web Development in ASP.net Core / PHP
+          - Develop Simulator HMI
+          - Develop Simulator UX
+          - Maintain Simulator Networking
           - Simulator Testing
+          - Office365 Administration
+          - IT Administration 
     - role: Software Developer, Solutions Technician, Owner
       time: 2007 - Present
       company: Grand Junction Computers, Grand Junction
