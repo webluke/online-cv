@@ -109,6 +109,28 @@ experiences:
           - SIP Phones
           - IT Consulting
           - MSP
+          
+projects:
+     title: Continued Learning
+     intro: >
+             
+     assignments:
+       - title: C# Mastercourse
+#         link: "#hook"
+         tagline: "Training course covering all aspects of C# and .Net"
+       - title: Web Development Mastercourse
+#         link: "#hook"
+         tagline: "Training course covering all aspects of modern web development"
+       - title: Blazor From Start to Finish
+#         link: "#hook"
+         tagline: "Training course covering new ASP.net Core Blazor Server and WebAssembly"
+       - title: SQL Deatabases From Start to Finish
+#         link: "#hook"
+         tagline: "Training course covering SQL Server and advanced database design"
+       - title: Web API From Start to Finish
+#         link: "#hook"
+         tagline: "Training course covering API design and deployment"
+
 # projects:
 #     title: Projects
 #     intro: >
