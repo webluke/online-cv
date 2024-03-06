@@ -109,6 +109,20 @@ experiences:
           - SIP Phones
           - IT Consulting
           - MSP
+    - role: IT Specialist 
+      time: 2017 - 2019
+      company: SimGenics, Grand Junction
+      details: |
+        Maintain IT infrastructure, provide computer solutions for Simulator and install hardware on-site. 
+          - IT Support
+          - Maintain Servers
+          - Install Computer Hardware
+          - Web Development / PHP
+          - Develop Simulator HMI
+          - Maintain Simulator Networking
+          - Simulator Testing
+          - Office365 Administration
+          - IT Administration 
           
 projects:
      title: Continued Learning
