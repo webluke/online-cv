@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Luke Schaefer
-    tagline: Full Stack Developer and IT Administrator 
+    tagline: Full Stack Developer and Desktop Developer 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: luke@schaefer.email
     phone: #012 345 6789
-    website: #webluke.net #do not add http://
+    website: lukeschaefer.info #do not add http://
     linkedin: lukeschaefer
     xing: #alandoe
     github: webluke
@@ -47,14 +47,11 @@ sidebar:
 
       - item: BBQ and Cooking
         link:
-        
-      - item: Gaming
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I find almost everything about computers interesting, recently I have found that I enjoy combining electronics, programming, and robotics to solve real world tasks. I am always ready to learn more about computers, programming, electronics, 3D printing, robotics and anything technology related.
+      Luke Schaefer is an out-of-the-box thinking software developer with experience as a desktop developer, full-stack web developer, and IT specialist. Using the latest standards and APIs, he has built interfaces and code for power plant training simulators, business websites, and web applications. He has also worked with computers and IT networks serving the Internet to small businesses and managing their networks.
 education:
     - degree: BS in Computer Science
       university: Colorado Mesa University
@@ -200,32 +197,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C#
+      - name: C# .Net Core / Framework
         level: 98%
-
-      - name: VB
+        
+      - name: MSSQL / MySQL / T-SQL
         level: 98%
-
-      - name: HTML5 & CSS
+        
+      - name: HTML5 / CSS / JS
         level: 98%
-
-      - name: WinForms
+                
+      - name: ASP.Net Core MVC / Razor / Blazor
         level: 98%
-
-      - name: XAML
+        
+      - name: XAML / WPF / WinForms
         level: 98%
-
+        
       - name: Windows
         level: 98%
 
-      - name: Custom Computers
+      - name: Computers Support
         level: 98%
 
       - name: Networking
         level: 90%
-
-      - name: SIP Phones
-        level: 80%
         
       - name: Wireless Networking
         level: 80%
@@ -233,17 +227,8 @@ skills:
       - name: Linux
         level: 80%
         
-      - name: Databases
+      - name: Docker
         level: 80%
-
-      - name: Photography
-        level: 60%
-
-      - name: Electronics
-        level: 50%
-        
-      - name: Live Sound
-        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
