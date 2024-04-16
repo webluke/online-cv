@@ -147,20 +147,20 @@ projects:
 #         link: "#hook"
          tagline: "Training course covering API design and deployment"
 
-projects:
-    title: Projects
-    intro: >
-            I have worked on many contract projects building custom websites to desktop applications working with user interfaces, business logic, APIs, and databases.
-    assignments:
-        - title: SimGenics Website
-         link: "https://sim.gjc.site/"
-         tagline: "Built a new website for the power plant training simulator company I worked for a backend CMS and SEO. Using PHP, MySQL, HTML5, CSS, JS, Bootstrap."
-        - title: Tech History Today
-         link: "https://tht.gjc.site/"
-         tagline: "Created a web interface for a database of tech history. I have also used this project to work with ASP.Net Blazor. Version 1 is using PHP, MySQL, HTML5, CSS, JS, Bootstrap, RSS. Version 2 is using ASP.Net Blazor, MSSQL, HTML5, CSS, JS, Boostrap, RSS."
-        - title: The Office LLC Website
-         link: "http://theofficellc.com/"
-         tagline: "Built a new website for a month to month small office leasing company with a tenant CMS and SEO. Using PHP, MySQL, HTML5, CSS, JS, Bootstrap."
+#projects:
+#    title: Projects
+#    intro: >
+#            I have worked on many contract projects building custom websites to desktop applications working with user interfaces, business logic, APIs, and databases.
+#    assignments:
+#        - title: SimGenics Website
+#         link: "https://sim.gjc.site/"
+#         tagline: "Built a new website for the power plant training simulator company I worked for a backend CMS and SEO. Using PHP, MySQL, HTML5, CSS, JS, Bootstrap."
+#        - title: Tech History Today
+#         link: "https://tht.gjc.site/"
+#         tagline: "Created a web interface for a database of tech history. I have also used this project to work with ASP.Net Blazor. Version 1 is using PHP, MySQL, HTML5, CSS, JS, Bootstrap, RSS. Version 2 is using ASP.Net Blazor, MSSQL, HTML5, CSS, JS, Boostrap, RSS."
+#        - title: The Office LLC Website
+#         link: "http://theofficellc.com/"
+#         tagline: "Built a new website for a month to month small office leasing company with a tenant CMS and SEO. Using PHP, MySQL, HTML5, CSS, JS, Bootstrap."
          
 # publications:
 #     title: Publications
