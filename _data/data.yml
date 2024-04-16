@@ -73,28 +73,30 @@ experiences:
       company: SimGenics, Grand Junction
       details: |
         Develop and Maintain Simulator HMI and Communications. 
-          - C# / SQL / WPF / VB.net / WinForms
-          - Web Development in ASP.net Core / PHP
-          - Develop Simulator HMI
-          - Develop Simulator UX
-          - Maintain Simulator Networking
-          - Simulator Testing
+          - Web Development in ASP.net Core MVC / Blazor / PHP / MSSQL / MySQL / Bootstrap
+          - Desktop Development C# / WPF / XAML / WinForms / VB
+          - Web API / MSSQL / ASP.Net API / Swagger
+          - Azure Administration
+          - Develop Simulator UX / HMI
+          - Simulator Networking / Testing
           - Office365 Administration
           - IT Administration 
-    - role: Software Developer, Solutions Technician, Owner
+    - role: Software Developer, Solutions Technician, Contracts
       time: 2007 - Present
       company: Grand Junction Computers, Grand Junction
       details: |
-        Create Custom Software, including Websites, Applications, and Databases for clients. Provide Computer Hardware, Software, and Networking support. Consult with businesses to provide IT solutions.
-          - Software Development
-          - Website Development
+        Contracting for Custom Software, including Websites, Desktop Applications, and Databases. Provide Computer Hardware, Software, and Networking support. Consult with businesses to provide IT solutions.
+          - Desktop Development
+          - C# / WPF / WinForms / MSSQL / VB / XAML / XML
+          - Website Development 
+          - ASP.Net Core MVC / Blazor / Razor / MSQL / Bootstrap / Tailwind / FluentUI / MaterialUI
+          - PHP / MySQL / Linux / HTML5 / CSS / JS
           - Computer Support
-          - Networking
-          - Wireless Networking
-          - Custom Computers
-          - SIP Phones
+          - Wired / Wireless Networking
+          - New / Used Computers
+          - Computer Support
+          - IP / SIP Phones
           - IT Consulting
-          - MSP
     - role: Network Engineer
       time: 2019 - 2020
       company: 32Waves, Grand Junction
@@ -104,7 +106,7 @@ experiences:
           - Internet Installation
           - Network Installation
           - Computer Support
-          - SIP Phones
+          - IP / SIP Phones
           - IT Consulting
           - Computer Repair
           - MSP
@@ -116,8 +118,9 @@ experiences:
           - IT Support
           - Maintain Servers
           - Install Computer Hardware
-          - Web Development / PHP
-          - Develop Simulator HMI
+          - Web Development / PHP / MySQL
+          - Develop Simulator HMI 
+          - C# / WPF / XAML / WinForms / VB
           - Maintain Simulator Networking
           - Simulator Testing
           - Office365 Administration
@@ -126,7 +129,7 @@ experiences:
 projects:
      title: Continued Learning
      intro: >
-             
+             I am always improving my skills and staying up-to-date with the latest software development. This includes taking course and reading in my free time.
      assignments:
        - title: C# Mastercourse
 #         link: "#hook"
@@ -144,33 +147,21 @@ projects:
 #         link: "#hook"
          tagline: "Training course covering API design and deployment"
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+projects:
+    title: Projects
+    intro: >
+            I have worked on many contract projects building custom websites to desktop applications working with user interfaces, business logic, APIs, and databases.
+    assignments:
+        - title: SimGenics Website
+         link: "https://sim.gjc.site/"
+         tagline: "Built a new website for the power plant training simulator company I worked for a backend CMS and SEO. Using PHP, MySQL, HTML5, CSS, JS, Bootstrap."
+        - title: Tech History Today
+         link: "https://tht.gjc.site/"
+         tagline: "Created a web interface for a database of tech history. I have also used this project to work with ASP.Net Blazor. Version 1 is using PHP, MySQL, HTML5, CSS, JS, Bootstrap, RSS. Version 2 is using ASP.Net Blazor, MSSQL, HTML5, CSS, JS, Boostrap, RSS."
+        - title: The Office LLC Website
+         link: "http://theofficellc.com/"
+         tagline: "Built a new website for a month to month small office leasing company with a tenant CMS and SEO. Using PHP, MySQL, HTML5, CSS, JS, Bootstrap."
+         
 # publications:
 #     title: Publications
 #     intro: |
@@ -197,7 +188,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# .Net Core / Framework
+      - name: C# / .Net Core / .Net Framework / VB.Net
         level: 98%
         
       - name: MSSQL / MySQL / T-SQL
