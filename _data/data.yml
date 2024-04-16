@@ -133,16 +133,16 @@ projects:
      intro: >
              I am always improving my skills and staying up-to-date with the latest software development. This includes taking course and reading in my free time.
      assignments:
-       - title: C# Mastercourse
+       - title: C# Master Course
 #         link: "#hook"
          tagline: "Training course covering all aspects of C# and .Net"
-       - title: Web Development Mastercourse
+       - title: Web Development Master Course
 #         link: "#hook"
          tagline: "Training course covering all aspects of modern web development"
        - title: Blazor From Start to Finish
 #         link: "#hook"
          tagline: "Training course covering new ASP.net Core Blazor Server and WebAssembly"
-       - title: SQL Deatabases From Start to Finish
+       - title: SQL Databases From Start to Finish
 #         link: "#hook"
          tagline: "Training course covering SQL Server and advanced database design"
        - title: Web API From Start to Finish
