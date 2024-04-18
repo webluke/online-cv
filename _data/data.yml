@@ -91,7 +91,7 @@ experiences:
           - C# / WPF / WinForms / MSSQL / VB / XAML / XML
           - Website Development 
           - ASP.Net Core MVC / Blazor / Razor / MSQL / Bootstrap / Tailwind / FluentUI / MaterialUI
-          - PHP / MySQL / Linux / HTML5 / CSS / JS / AngularJS / Typescript 
+          - PHP / MySQL / Linux / HTML5 / CSS / JS / AngularJS / Typescript / Vue.js / React
           - Git / GitHub / Azure DevOps
           - Computer Support
           - Wired / Wireless Networking
@@ -196,32 +196,27 @@ skills:
       - name: MSSQL / MySQL / T-SQL
         level: 98%
         
-      - name: HTML5 / CSS / JS
+      - name: HTML5 / CSS / JavaScript
         level: 98%
                 
       - name: ASP.Net Core MVC / Razor / Blazor
         level: 98%
         
-      - name: XAML / WPF / WinForms
+      - name: XAML / WPF / UWP / WinForms / MAUI
         level: 98%
         
-      - name: Windows
+      - name: Desktop OS / Windows / Linux / MacOS
         level: 98%
 
-      - name: Computers Support
+      - name: Computers Support / IT Administration
         level: 98%
 
-      - name: Networking
+      - name: Networking / Network Administration / Wireless Networking
         level: 90%
-        
-      - name: Wireless Networking
+
+      - name: AngularJS / TypeScript / Vue.js / React
         level: 80%
 
-      - name: Linux
-        level: 80%
-        
-      - name: Docker
-        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
