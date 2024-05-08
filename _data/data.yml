@@ -108,18 +108,18 @@ experiences:
           - Wireless ISP Administration
           - Internet Installation
           - Network Installation
-          - Computer Support
+          - IT Administration / Support
           - IP / SIP Phones
           - IT Consulting
           - Computer Repair
-          - MSP
+          - Cloud Managed Service Provider
     - role: IT Specialist 
       time: 2017 - 2019
       company: SimGenics, Grand Junction
       details: |
         Maintained IT infrastructure, providing computer solutions for the Simulator, and installed hardware on-site.
-          - IT Support
-          - Maintain Servers
+          - IT Administration / Support
+          - Maintain Servers / Data Storage
           - Install Computer Hardware
           - Web Development / PHP / MySQL
           - Develop Simulator HMI 
@@ -127,7 +127,6 @@ experiences:
           - Maintain Simulator Networking
           - Simulator Testing
           - Office365 Administration
-          - IT Administration 
           
 projects:
      title: Continued Learning
