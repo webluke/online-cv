@@ -57,7 +57,7 @@ education:
       university: Colorado Mesa University
       time: 2013 - 2016
       details: |
-        Studied Computer Science, along with working with faculty and community members to develop a robot for the DARPA Robotics Challenge. I also enjoy taking a variety of classes including photography, sciences, and computers.
+        Studied Computer Science, along with working with faculty and community members to develop a robot for the DARPA Robotics Challenge. I also enjoy taking a variety of classes, including photography, science, and computers.
           - National Technical Honors Society
           - Association for Computing Machinery
           - DARPA Robotics Challenge
@@ -65,28 +65,30 @@ education:
       university: ITT Technical Institute
       time: 2010 - 2012
       details: |
-        Studied Information Systems Administration. Includes network administration, server administration and project management,
+        Studied Information Systems Administration. Includes network administration, server administration, and project management,
           - Graduated with Highest Honors
 experiences:
     - role: Simulation Software Engineer + IT Specialist 
       time: 2021 - 2024
       company: SimGenics, Grand Junction
       details: |
-        Develop and Maintain Simulator HMI and Communications. 
-          - Web Development in ASP.net Core MVC / Blazor / PHP / MSSQL / MySQL / Bootstrap
-          - Desktop Development C# / WPF / XAML / WinForms / VB
+        Worked as part of a team developing power plant training simulators. We worked on building the interface and code to communicate with the simulator model and the operators. I also worked on building web applications to manage users, data, and access. I was also responsible for the installation of computer hardware at industrial sites.
+          - Web Development 
+          - ASP.net Core MVC / Blazor / PHP / MSSQL / MySQL / Bootstrap
+          - Desktop Development 
+          - C# / WPF / XAML / WinForms / VB
           - Web API / MSSQL / ASP.Net API / Swagger / Dapper / Entity Framework
           - Azure Administration
           - Git / GitHub / Azure DevOps
           - Develop Simulator UX / HMI
-          - Simulator Networking / Testing
+          - Software Testing
           - Office365 Administration
           - IT Administration 
-    - role: Freelance Software Developer, Solutions Technician
+    - role: Software Developer, Solutions Technician
       time: 2007 - Present
       company: Grand Junction Computers, Grand Junction
       details: |
-        Contracting for Custom Software, including Websites, Desktop Applications, and Databases. Providing computer Hardware, Software, and Networking support. Consulting with businesses to provide IT solutions.
+        Freelance contracting building Custom Software, Websites, Desktop Applications, and Databases. I also provide Computer Hardware, Software, and Networking Support. I am consulting with businesses to provide IT solutions.
           - Desktop Development
           - C# / WPF / WinForms / MSSQL / VB / XAML / XML
           - Website Development 
@@ -97,14 +99,13 @@ experiences:
           - Computer Support
           - Wired / Wireless Networking
           - New / Used Computers
-          - Computer Support
           - IP / SIP Phones
           - IT Consulting
     - role: Network Engineer
       time: 2019 - 2020
       company: 32Waves, Grand Junction
       details: |
-        Operated business-grade Wireless Internet Services. Managed IT Services and Support. IT Consulting.
+        We operated business-grade Wireless Internet Service. We also provided Managed IT Services and Support. I would meet with clients for IT Consulting for custom solutions and problem-solving.
           - Wireless ISP Administration
           - Internet Installation
           - Network Installation
@@ -117,7 +118,7 @@ experiences:
       time: 2017 - 2019
       company: SimGenics, Grand Junction
       details: |
-        Maintained IT infrastructure, providing computer solutions for the Simulator, and installed hardware on-site.
+        I Maintained all company IT infrastructure, provided computer solutions for the Simulator, and installed hardware on-site. I was also responsible for building and maintaining the company website and working on projects developing interfaces and custom controls.
           - IT Administration / Support
           - Maintain Servers / Data Storage
           - Install Computer Hardware
