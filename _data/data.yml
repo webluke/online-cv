@@ -68,6 +68,18 @@ education:
         Studied Information Systems Administration. Includes network administration, server administration, and project management,
           - Graduated with Highest Honors
 experiences:
+    - role: Software Development, Terminal Configuration
+      time: 2024 - 2024
+      company: Platinum Relations, Delta
+      details: |
+        Developed internal tools for processing credit card transactions and working with configuration files. Configured credit card terminals and provided technical support.
+          - Desktop Development 
+          - C# / WPF / XAML
+          - Web API / Git
+          - Credit Card Terminal Configuration
+          - Online Credit Card Processing Management
+          - Software Testing
+          - Level 2 Technical Support
     - role: Simulation Software Engineer + IT Specialist 
       time: 2021 - 2024
       company: SimGenics, Grand Junction
@@ -132,7 +144,7 @@ experiences:
 projects:
      title: Continued Learning
      intro: >
-             I am always improving my skills and staying up-to-date with the latest software development. This includes taking course and reading in my free time.
+             I am always improving my skills and staying up-to-date with the latest software development. This includes taking courses and reading in my free time.
      assignments:
        - title: C# Master Course
 #         link: "#hook"
